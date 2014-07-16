@@ -1,100 +1,44 @@
-[02:08:59] [main/INFO]: Setting user: ForgeDevName
-[02:09:04] [Client thread/INFO]: LWJGL Version: 2.9.1
-[02:09:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
-[02:09:34] [Sound Library Loader/INFO]: Sound engine started
-[02:09:40] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[02:09:41] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_4096_null.png
-java.io.FileNotFoundException: minecraft:textures/items/MISSING_ICON_ITEM_4096_null.png
-	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.loadTextureAtlas(TextureMap.java:126) [TextureMap.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.loadTexture(TextureMap.java:91) [TextureMap.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:89) [TextureManager.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.loadTickableTexture(TextureManager.java:71) [TextureManager.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.loadTextureMap(TextureManager.java:58) [TextureManager.class:?]
-	at net.minecraft.client.Minecraft.startGame(Minecraft.java:593) [Minecraft.class:?]
-	at net.minecraft.client.Minecraft.run(Minecraft.java:941) [Minecraft.class:?]
-	at net.minecraft.client.main.Main.main(Main.java:164) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_60]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_60]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
-	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:134) [launchwrapper-1.9.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.9.jar:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_60]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_60]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
-	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
-	at GradleStart.bounce(GradleStart.java:95) [start/:?]
-	at GradleStart.startClient(GradleStart.java:88) [start/:?]
-	at GradleStart.main(GradleStart.java:56) [start/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_60]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_60]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
-	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
-	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[02:09:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[02:09:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
-[02:09:43] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_4096_null.png
-java.io.FileNotFoundException: minecraft:textures/items/MISSING_ICON_ITEM_4096_null.png
-	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.loadTextureAtlas(TextureMap.java:126) [TextureMap.class:?]
-	at net.minecraft.client.renderer.texture.TextureMap.loadTexture(TextureMap.java:91) [TextureMap.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:89) [TextureManager.class:?]
-	at net.minecraft.client.renderer.texture.TextureManager.onResourceManagerReload(TextureManager.java:170) [TextureManager.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.notifyReloadListeners(SimpleReloadableResourceManager.java:134) [SimpleReloadableResourceManager.class:?]
-	at net.minecraft.client.resources.SimpleReloadableResourceManager.reloadResources(SimpleReloadableResourceManager.java:118) [SimpleReloadableResourceManager.class:?]
-	at net.minecraft.client.Minecraft.refreshResources(Minecraft.java:653) [Minecraft.class:?]
-	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:303) [FMLClientHandler.class:?]
-	at net.minecraft.client.Minecraft.startGame(Minecraft.java:596) [Minecraft.class:?]
-	at net.minecraft.client.Minecraft.run(Minecraft.java:941) [Minecraft.class:?]
-	at net.minecraft.client.main.Main.main(Main.java:164) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_60]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_60]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
-	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:134) [launchwrapper-1.9.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.9.jar:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_60]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_60]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
-	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
-	at GradleStart.bounce(GradleStart.java:95) [start/:?]
-	at GradleStart.startClient(GradleStart.java:88) [start/:?]
-	at GradleStart.main(GradleStart.java:56) [start/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_60]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_60]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
-	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
-	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[02:09:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[02:09:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[02:09:45] [Sound Library Loader/INFO]: Sound engine started
-[02:10:01] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[02:10:01] [Server thread/INFO]: Generating keypair
-[02:10:03] [Server thread/INFO]: Preparing start region for level 0
-[02:10:05] [Server thread/INFO]: Preparing spawn area: 0%
-[02:10:06] [Server thread/INFO]: Preparing spawn area: 36%
-[02:10:07] [Server thread/INFO]: Preparing spawn area: 58%
-[02:10:08] [Server thread/INFO]: Preparing spawn area: 92%
-[02:10:09] [Server thread/INFO]: Changing view distance to 12, from 10
-[02:10:11] [Server thread/INFO]: ForgeDevName[local:E:ebdf4211] logged in with entity id 234 at (290.14164003418637, 67.0, -164.65534601260134)
-[02:10:11] [Server thread/INFO]: ForgeDevName joined the game
-[02:10:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6297ms behind, skipping 125 tick(s)
-[02:10:32] [Server thread/INFO]: [ForgeDevName: Given [item.null.name] * 1 to ForgeDevName]
-[02:10:32] [Client thread/INFO]: [CHAT] Given [item.null.name] * 1 to ForgeDevName
-[02:10:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5101ms behind, skipping 102 tick(s)
-[02:11:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2403ms behind, skipping 48 tick(s)
-[02:11:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 119 ms
-[02:11:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 173 ms
-[02:11:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 313 ms
-[02:11:50] [Client thread/INFO]: Stopping!
-[02:11:50] [Server thread/INFO]: Stopping server
-[02:11:50] [Server thread/INFO]: Saving players
-[02:11:50] [Server thread/INFO]: Saving worlds
-[02:11:50] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
-[02:11:50] [Client Shutdown Thread/INFO]: Stopping server
-[02:11:50] [Client Shutdown Thread/INFO]: Saving players
-[02:11:50] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
-[02:11:50] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
+[15:43:35] [main/INFO]: Setting user: ForgeDevName
+[15:43:39] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:44:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
+[15:44:09] [Sound Library Loader/INFO]: Sound engine started
+[15:44:16] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:44:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:44:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
+[15:44:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:44:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:44:20] [Sound Library Loader/INFO]: Sound engine started
+[15:44:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:44:36] [Server thread/INFO]: Generating keypair
+[15:44:38] [Server thread/INFO]: Preparing start region for level 0
+[15:44:40] [Server thread/INFO]: Preparing spawn area: 0%
+[15:44:41] [Server thread/INFO]: Preparing spawn area: 37%
+[15:44:42] [Server thread/INFO]: Preparing spawn area: 88%
+[15:44:43] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:44:45] [Server thread/INFO]: ForgeDevName[local:E:5e191cb8] logged in with entity id 150 at (397.1858422741647, 91.0, -342.0340292356164)
+[15:44:45] [Server thread/INFO]: ForgeDevName joined the game
+[15:44:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7697ms behind, skipping 153 tick(s)
+[15:45:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2719ms behind, skipping 54 tick(s)
+[15:45:20] [Server thread/INFO]: [ForgeDevName: Given [tile.lilymod:flag.name] * 64 to ForgeDevName]
+[15:45:20] [Client thread/INFO]: [CHAT] Given [tile.lilymod:flag.name] * 64 to ForgeDevName
+[15:49:19] [Server thread/INFO]: Saving and pausing game...
+[15:49:19] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
+[15:49:19] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
+[15:49:19] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
+[15:49:46] [Server thread/INFO]: Saving and pausing game...
+[15:49:46] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
+[15:49:46] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
+[15:49:46] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
+[15:50:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2143ms behind, skipping 42 tick(s)
+[15:50:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5794ms behind, skipping 115 tick(s)
+[15:50:47] [Server thread/INFO]: Saving and pausing game...
+[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
+[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
+[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
+[15:50:47] [Server thread/INFO]: Stopping server
+[15:50:47] [Server thread/INFO]: Saving players
+[15:50:47] [Server thread/INFO]: Saving worlds
+[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
+[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
+[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
+[15:50:51] [Client thread/INFO]: Stopping!
