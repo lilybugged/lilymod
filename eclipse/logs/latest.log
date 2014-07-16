@@ -1,67 +1,11 @@
-[00:04:35] [main/INFO]: Setting user: ForgeDevName
-[00:04:41] [Client thread/INFO]: LWJGL Version: 2.9.0
-[00:05:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
-[00:05:13] [Sound Library Loader/INFO]: Sound engine started
-[00:05:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[00:05:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[00:05:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
-[00:05:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[00:05:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[00:05:23] [Sound Library Loader/INFO]: Sound engine started
-[00:05:29] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
-[00:11:25] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
-[00:11:25] [Server thread/INFO]: Generating keypair
-[00:11:26] [Server thread/INFO]: Converting map!
-[00:11:26] [Server thread/INFO]: Scanning folders...
-[00:11:26] [Server thread/INFO]: Total conversion count is 0
-[00:11:29] [Server thread/INFO]: Preparing start region for level 0
-[00:11:30] [Server thread/INFO]: Preparing spawn area: 0%
-[00:11:31] [Server thread/INFO]: Preparing spawn area: 2%
-[00:11:32] [Server thread/INFO]: Preparing spawn area: 4%
-[00:11:33] [Server thread/INFO]: Preparing spawn area: 7%
-[00:11:34] [Server thread/INFO]: Preparing spawn area: 9%
-[00:11:35] [Server thread/INFO]: Preparing spawn area: 13%
-[00:11:36] [Server thread/INFO]: Preparing spawn area: 15%
-[00:11:37] [Server thread/INFO]: Preparing spawn area: 19%
-[00:11:38] [Server thread/INFO]: Preparing spawn area: 24%
-[00:11:39] [Server thread/INFO]: Preparing spawn area: 30%
-[00:11:40] [Server thread/INFO]: Preparing spawn area: 35%
-[00:11:41] [Server thread/INFO]: Preparing spawn area: 40%
-[00:11:42] [Server thread/INFO]: Preparing spawn area: 45%
-[00:11:43] [Server thread/INFO]: Preparing spawn area: 51%
-[00:11:44] [Server thread/INFO]: Preparing spawn area: 56%
-[00:11:45] [Server thread/INFO]: Preparing spawn area: 62%
-[00:11:46] [Server thread/INFO]: Preparing spawn area: 67%
-[00:11:47] [Server thread/INFO]: Preparing spawn area: 72%
-[00:11:48] [Server thread/INFO]: Preparing spawn area: 77%
-[00:11:49] [Server thread/INFO]: Preparing spawn area: 82%
-[00:11:50] [Server thread/INFO]: Preparing spawn area: 87%
-[00:11:51] [Server thread/INFO]: Preparing spawn area: 91%
-[00:11:52] [Server thread/INFO]: Preparing spawn area: 94%
-[00:11:53] [Server thread/INFO]: Preparing spawn area: 99%
-[00:11:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2258ms behind, skipping 45 tick(s)
-[00:11:57] [Server thread/INFO]: ForgeDevName[local:E:f2776819] logged in with entity id 134 at (144.5, 67.0, -173.5)
-[00:11:57] [Server thread/INFO]: ForgeDevName joined the game
-[00:12:09] [Client thread/INFO]: Warning: Clientside chunk ticking took 131 ms
-[00:12:09] [Client thread/INFO]: Warning: Clientside chunk ticking took 155 ms
-[00:12:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 158 ms
-[00:12:12] [Server thread/INFO]: ForgeDevName has just earned the achievement [Taking Inventory]
-[00:12:12] [Client thread/INFO]: [CHAT] ForgeDevName has just earned the achievement [Taking Inventory]
-[00:12:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 1054 ms
-[00:12:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 121 ms
-[00:12:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 188 ms
-[00:12:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 166 ms
-[00:12:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 890 ms
-[00:12:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 179 ms
-[00:12:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 219 ms
-[00:12:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3940ms behind, skipping 78 tick(s)
-[00:12:19] [Client thread/INFO]: Warning: Clientside chunk ticking took 882 ms
-[00:12:45] [Server thread/INFO]: Saving and pausing game...
-[00:12:46] [Server thread/INFO]: Saving chunks for level 'Testing, Testing!'/Overworld
-[00:12:46] [Server thread/INFO]: Saving chunks for level 'Testing, Testing!'/Nether
-[00:12:46] [Server thread/INFO]: Saving chunks for level 'Testing, Testing!'/The End
-[00:13:14] [Client thread/INFO]: Stopping!
-[00:13:14] [Server thread/INFO]: Stopping server
-[00:13:14] [Server thread/INFO]: Saving players
-[00:13:14] [Server thread/INFO]: Saving worlds
-[00:13:14] [Server thread/INFO]: Saving chunks for level 'Testing, Testing!'/Overworld
+[17:22:16] [main/INFO]: Setting user: ForgeDevName
+[17:22:21] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:22:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
+[17:22:49] [Sound Library Loader/INFO]: Sound engine started
+[17:22:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:22:57] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:22:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
+[17:22:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:22:59] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:23:00] [Sound Library Loader/INFO]: Sound engine started
+[17:24:20] [Client thread/INFO]: Stopping!

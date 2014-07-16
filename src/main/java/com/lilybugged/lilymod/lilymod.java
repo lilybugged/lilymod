@@ -1,5 +1,6 @@
 package com.lilybugged.lilymod;
 
+import com.lilybugged.lilymod.handler.ConfigurationHandler;
 import com.lilybugged.lilymod.proxy.IProxy;
 import com.lilybugged.lilymod.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -13,13 +14,12 @@ public class lilymod {
     @Mod.Instance(Reference.MOD_ID)
     public static lilymod instance;
 
-    @SidedProxy(clientSide="com.lilybugged.lilymod.proxy.ClientProxy",serverSide="com.lilybugged.lilymod.proxy.ServerProxy")
+    @SidedProxy(clientSide=Reference.CLIENT_PROXY_CLASS,serverSide=Reference.SERVER_PROXY_CLASS)
     public static IProxy proxy;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event){
-
-
+        ConfigurationHandler.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler
