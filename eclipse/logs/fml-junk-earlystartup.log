@@ -1293,3 +1293,87 @@
 [15:43:20] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [15:43:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [15:43:20] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:07:15] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[17:07:15] [main/INFO] [GradleStart]: Extra: []
+[17:07:15] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[17:07:15] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:07:15] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:07:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:22:04] [main/INFO] [GradleStart]: No arguments specified, assuming client.
+[17:22:04] [main/INFO] [GradleStart]: Extra: []
+[17:22:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, ForgeDevName, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[17:22:04] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:22:05] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:22:05] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[18:07:26] [main/INFO] [GradleStart]: username: lilybugged
+[18:07:26] [main/INFO] [GradleStart]: Extra: []
+[18:07:26] [main/INFO] [GradleStart]: Password found, attempting login
+[18:07:29] [main/INFO] [GradleStart]: Login Succesful!
+[18:07:29] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[18:07:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:07:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:07:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[10:20:03] [main/INFO] [GradleStart]: username: lilybugged
+[10:20:03] [main/INFO] [GradleStart]: Extra: []
+[10:20:03] [main/INFO] [GradleStart]: Password found, attempting login
+[10:20:11] [main/INFO] [GradleStart]: Login Succesful!
+[10:20:11] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[10:20:11] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:20:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:20:11] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:00] [main/INFO] [GradleStart]: username: lilybugged
+[13:36:00] [main/INFO] [GradleStart]: Extra: []
+[13:36:00] [main/INFO] [GradleStart]: Password found, attempting login
+[13:36:03] [main/INFO] [GradleStart]: Login Succesful!
+[13:36:03] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[13:36:03] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:03] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:32:58] [main/INFO] [GradleStart]: username: lilybugged
+[16:32:58] [main/INFO] [GradleStart]: Extra: []
+[16:32:58] [main/INFO] [GradleStart]: Password found, attempting login
+[16:33:01] [main/INFO] [GradleStart]: Login Succesful!
+[16:33:01] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:33:02] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:02] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:41] [main/INFO] [GradleStart]: username: lilybugged
+[16:33:41] [main/INFO] [GradleStart]: Extra: []
+[16:33:41] [main/INFO] [GradleStart]: Password found, attempting login
+[16:33:45] [main/INFO] [GradleStart]: Login Succesful!
+[16:33:46] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[16:33:46] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:46] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:46] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:30:04] [main/INFO] [GradleStart]: username: lilybugged
+[17:30:04] [main/INFO] [GradleStart]: Extra: []
+[17:30:04] [main/INFO] [GradleStart]: Password found, attempting login
+[17:30:06] [main/INFO] [GradleStart]: Login Succesful!
+[17:30:06] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[17:30:07] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:30:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:30:07] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[08:16:58] [main/INFO] [GradleStart]: username: lilybugged
+[08:16:58] [main/INFO] [GradleStart]: Extra: []
+[08:16:58] [main/INFO] [GradleStart]: Password found, attempting login
+[08:17:01] [main/INFO] [GradleStart]: Login Succesful!
+[08:17:01] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[08:17:01] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:17:01] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:17:01] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[08:24:04] [main/INFO] [GradleStart]: username: lilybugged
+[08:24:04] [main/INFO] [GradleStart]: Extra: []
+[08:24:04] [main/INFO] [GradleStart]: Password found, attempting login
+[08:24:06] [main/INFO] [GradleStart]: Login Succesful!
+[08:24:06] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[08:24:07] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:24:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:24:07] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[08:36:49] [main/INFO] [GradleStart]: username: lilybugged
+[08:36:49] [main/INFO] [GradleStart]: Extra: []
+[08:36:49] [main/INFO] [GradleStart]: Password found, attempting login
+[08:36:54] [main/INFO] [GradleStart]: Login Succesful!
+[08:36:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --username, lilybugged, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --accessToken, {REDACTED}, --assetIndex, 1.7.10, --uuid, b5646519a47847618c5228fe548f016d, --assetsDir, C:/Users/SWPF/.gradle/caches/minecraft/assets, --version, 1.7.10]
+[08:36:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:36:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:36:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

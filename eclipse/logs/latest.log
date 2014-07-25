@@ -1,44 +1,50 @@
-[15:43:35] [main/INFO]: Setting user: ForgeDevName
-[15:43:39] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:44:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
-[15:44:09] [Sound Library Loader/INFO]: Sound engine started
-[15:44:16] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:44:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:44:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
-[15:44:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:44:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:44:20] [Sound Library Loader/INFO]: Sound engine started
-[15:44:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:44:36] [Server thread/INFO]: Generating keypair
-[15:44:38] [Server thread/INFO]: Preparing start region for level 0
-[15:44:40] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:41] [Server thread/INFO]: Preparing spawn area: 37%
-[15:44:42] [Server thread/INFO]: Preparing spawn area: 88%
-[15:44:43] [Server thread/INFO]: Changing view distance to 12, from 10
-[15:44:45] [Server thread/INFO]: ForgeDevName[local:E:5e191cb8] logged in with entity id 150 at (397.1858422741647, 91.0, -342.0340292356164)
-[15:44:45] [Server thread/INFO]: ForgeDevName joined the game
-[15:44:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7697ms behind, skipping 153 tick(s)
-[15:45:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2719ms behind, skipping 54 tick(s)
-[15:45:20] [Server thread/INFO]: [ForgeDevName: Given [tile.lilymod:flag.name] * 64 to ForgeDevName]
-[15:45:20] [Client thread/INFO]: [CHAT] Given [tile.lilymod:flag.name] * 64 to ForgeDevName
-[15:49:19] [Server thread/INFO]: Saving and pausing game...
-[15:49:19] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
-[15:49:19] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
-[15:49:19] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
-[15:49:46] [Server thread/INFO]: Saving and pausing game...
-[15:49:46] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
-[15:49:46] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
-[15:49:46] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
-[15:50:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2143ms behind, skipping 42 tick(s)
-[15:50:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5794ms behind, skipping 115 tick(s)
-[15:50:47] [Server thread/INFO]: Saving and pausing game...
-[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
-[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
-[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
-[15:50:47] [Server thread/INFO]: Stopping server
-[15:50:47] [Server thread/INFO]: Saving players
-[15:50:47] [Server thread/INFO]: Saving worlds
-[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
-[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
-[15:50:47] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
-[15:50:51] [Client thread/INFO]: Stopping!
+[08:36:49] [main/INFO]: Logging in with username & password
+[08:37:15] [main/INFO]: Setting user: lilybugged
+[08:37:23] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:37:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
+[08:37:49] [Sound Library Loader/INFO]: Sound engine started
+[08:37:57] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:37:57] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:37:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:lilymod
+[08:37:59] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:38:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:38:01] [Sound Library Loader/INFO]: Sound engine started
+[08:38:45] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[08:38:45] [Server thread/INFO]: Generating keypair
+[08:38:47] [Server thread/INFO]: Preparing start region for level 0
+[08:38:49] [Server thread/INFO]: Preparing spawn area: 0%
+[08:38:50] [Server thread/INFO]: Preparing spawn area: 32%
+[08:38:51] [Server thread/INFO]: Preparing spawn area: 74%
+[08:38:52] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:38:53] [Server thread/INFO]: lilybugged[local:E:9e3c10c5] logged in with entity id 136 at (398.5621281758269, 91.0, -349.65868174832576)
+[08:38:54] [Server thread/INFO]: lilybugged joined the game
+[08:39:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6631ms behind, skipping 132 tick(s)
+[08:39:45] [Server thread/INFO]: [lilybugged: Set own game mode to Survival Mode]
+[08:39:45] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:39:48] [Server thread/INFO]: lilybugged was blown up by Creeper
+[08:39:49] [Client thread/INFO]: [CHAT] lilybugged was blown up by Creeper
+[08:39:52] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@76738390[id=b5646519-a478-4761-8c52-28fe548f016d,name=lilybugged,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:135) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:133) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_60]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_60]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [?:1.7.0_60]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [?:1.7.0_60]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_60]
+[08:39:56] [Server thread/INFO]: [lilybugged: Set own game mode to Creative Mode]
+[08:39:56] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:41:12] [Server thread/INFO]: [lilybugged: Set own game mode to Survival Mode]
+[08:41:12] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:41:43] [Server thread/INFO]: Saving and pausing game...
+[08:41:44] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
+[08:41:44] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
+[08:41:44] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
+[08:41:44] [Server thread/INFO]: Stopping server
+[08:41:44] [Server thread/INFO]: Saving players
+[08:41:44] [Server thread/INFO]: Saving worlds
+[08:41:44] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Overworld
+[08:41:44] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/Nether
+[08:41:44] [Server thread/INFO]: Saving chunks for level 'Creative Testing!'/The End
+[08:41:46] [Client thread/INFO]: Stopping!

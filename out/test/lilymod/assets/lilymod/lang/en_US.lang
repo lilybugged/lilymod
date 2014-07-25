@@ -1,2 +1,6 @@
-item.lilymod:mapleLeaf.name = Maple Leaf of Awesomeness
-tile.lilymod:flag.name = Canadian Flag of Awesomeness
+itemGroup.lilymod=lilymod
+item.lilymod:mapleLeaf.name=Teh Leaf
+item.lilymod:orb.name=The Orb of Cheating
+
+
+tile.lilymod:flag.name=Canadian Flag of Awesomeness

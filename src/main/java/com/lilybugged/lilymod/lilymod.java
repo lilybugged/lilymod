@@ -3,6 +3,7 @@ package com.lilybugged.lilymod;
 import com.lilybugged.lilymod.handler.ConfigurationHandler;
 import com.lilybugged.lilymod.init.ModBlocks;
 import com.lilybugged.lilymod.init.ModItems;
+import com.lilybugged.lilymod.init.Recipes;
 import com.lilybugged.lilymod.proxy.IProxy;
 import com.lilybugged.lilymod.reference.Reference;
 import com.lilybugged.lilymod.utility.LogHelper;
@@ -34,6 +35,7 @@ public class lilymod {
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event){
+        Recipes.init();
         LogHelper.info("Initialization complete!");
     }
 

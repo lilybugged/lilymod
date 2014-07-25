@@ -2,6 +2,7 @@ package com.lilybugged.lilymod.init;
 
 import com.lilybugged.lilymod.block.BlockFlag;
 import com.lilybugged.lilymod.block.BlockLM;
+import com.lilybugged.lilymod.creativetab.CreativeTabLM;
 import com.lilybugged.lilymod.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -12,5 +13,6 @@ public class ModBlocks {
     public static void init() {
 
         GameRegistry.registerBlock(flag, "flag");
+
     }
 }

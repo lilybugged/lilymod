@@ -1,5 +1,6 @@
 package com.lilybugged.lilymod.item;
 
+import com.lilybugged.lilymod.creativetab.CreativeTabLM;
 import com.lilybugged.lilymod.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -11,6 +12,8 @@ public class ItemLM extends Item{
 
     public ItemLM() {
         super();
+        this.setCreativeTab(CreativeTabLM.LM_TAB);
+
     }
 
     @Override
